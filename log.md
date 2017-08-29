@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+Day 0: August 29, 2017
+
+**Today's Progress**: Installed git and started becoming familiar with how it works. 
+		      I completed 113 exercises in freeCodeCamp.com (Finished HTML5 and CSS,
+                      Responsive Design with Bootstrap, jQuery, and the first two of three
+		      of Basic Front End Development Projects.
+
+**Thoughts**: I was already familiar with HTML and CSS, and some basics of Bootstrap so that went really quick.
+	      I haven't worked with jQuery before, and while it was interesting, it wasn't too hard. I would have
+  	      liked to get into it a little more in depth, but I guess it's just an introduciton.
+
+**Link to Work**: I did a basic tribute page (as per freeCodeCamp's lessons) and picked Linus Tolvalds.
+		  It's super basic HTML/CSS/Bootstrap. I've done better design, but the aim was to have no
+		  custom CSS. I only cheated on the font and body margin. 
+		  Link: https://codepen.io/gordonhannan/full/gxQRoX/ 
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

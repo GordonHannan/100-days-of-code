@@ -10,11 +10,9 @@ I was already familiar with HTML and CSS, and some basics of Bootstrap so that w
 **Link to Work**: 
 I did a tribute page (as per freeCodeCamp's lessons) and picked Linus Tolvalds. It's super basic HTML/CSS/Bootstrap. I've done better design, but the aim was to have no custom CSS. I only cheated on the font and body margin. 
 Tribute Page
-------------
 Link: https://codepen.io/gordonhannan/full/gxQRoX/ 
 
 Personal Portfolio
-------------------
 Link: https://codepen.io/gordonhannan/full/qXQoYZ/ 
 (note: I still need to add links to social media to finish freeCodeCamp's requirements)
 
@@ -29,5 +27,4 @@ It was a bit frustrating having left the Portfolio page so close to complete, bu
 
 **Link to Work**:
 Portfolio
----------
 Link: https://codepen.io/gordonhannan/full/qXQoYZ/

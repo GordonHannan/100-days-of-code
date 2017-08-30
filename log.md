@@ -3,17 +3,22 @@ Day 0: August 29, 2017
 
 **Today's Progress**: Installed git and started becoming familiar with how it works. 
 		      I completed 113 exercises in freeCodeCamp.com (Finished HTML5 and CSS,
-                      Responsive Design with Bootstrap, jQuery, and the first two of three
-		      of Basic Front End Development Projects.
+                      Responsive Design with Bootstrap, jQuery, and Basic Front End Development Projects.
 
 **Thoughts**: I was already familiar with HTML and CSS, and some basics of Bootstrap so that went really quick.
 	      I haven't worked with jQuery before, and while it was interesting, it wasn't too hard. I would have
-  	      liked to get into it a little more in depth, but I guess it's just an introduciton.
+  	      liked to get into it a little more in depth, but I guess it's just an introduciton. I found the Bootstrap
+              portion of the last Basic Front End Development Projects to be fairly difficult. I had a decent amount of
+              trouble figuring out the ScrollSpy portion as well as the collapseable menu.
+              I feel like I learned a decent amount about setting ScrollSpy/Menu stuff up.
+              My pace will most definitely slow in the up coming days.
 
 **Link to Work**: I did a basic tribute page (as per freeCodeCamp's lessons) and picked Linus Tolvalds.
 		  It's super basic HTML/CSS/Bootstrap. I've done better design, but the aim was to have no
 		  custom CSS. I only cheated on the font and body margin. 
 		  Link: https://codepen.io/gordonhannan/full/gxQRoX/ 
+                  Link: https://codepen.io/gordonhannan/full/qXQoYZ/ 
+                        (note: I still need to add links to social media to finish freeCodeCamp's Reqs)
 
 
 ### Day 0: February 30, 2016 (Example 1)

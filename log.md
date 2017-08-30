@@ -16,7 +16,7 @@ Link: https://codepen.io/gordonhannan/full/gxQRoX/
 Personal Portfolio
 ------------------
 Link: https://codepen.io/gordonhannan/full/qXQoYZ/ 
-(note: I still need to add links to social media to finish freeCodeCamp's Reqs)
+(note: I still need to add links to social media to finish freeCodeCamp's requirements)
 
 
 Day 1: August 30, 2017

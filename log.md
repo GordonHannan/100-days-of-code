@@ -21,31 +21,15 @@ Day 0: August 29, 2017
                         (note: I still need to add links to social media to finish freeCodeCamp's Reqs)
 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day 1: August 30, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+I updated the CodePen for the "Build a Personal Portfolio Webpage Complete" project. I added social media icons for Facebook, Twitter, and LinkedIn. I also added a footer bar. I messed around with the colour scheme a bit to make the headers in section 1 and section 3 white. I changed the main background to the grey colour. Prior to this, there were white gaps on the footer where it has the rounded corners. I removed the "darkGreyBG" class from the CSS as well as from the col-3 on the left and right sides of the page. I added a section 2 class to the CSS that includes a white background and black text. I also linked up https://digitallysmarter.com.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
+It was a bit frustrating having left the Portfolio page so close to complete, but I'm glad I left it and came back. It took about an hour to finish off and I was able to correct other small issues that were bugging me. I noticed that when I click on the links, it jumps to the place on the page. I'm not sure if it is supposed to be smoothly scrolling, but I've found documentation on Bootstrap 4 beta to be a bit confusing. Perhaps this is a Bootstrap 4 beta thing?
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to Work**:
+Portfolio
+---------
+Link: https://codepen.io/gordonhannan/full/qXQoYZ/

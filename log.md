@@ -23,11 +23,18 @@ Day 1: August 30, 2017
 
 **Today's Progress**:
 I updated the CodePen for the "Build a Personal Portfolio Webpage Complete" project. I added social media icons for Facebook, Twitter, and LinkedIn. I also added a footer bar. I messed around with the colour scheme a bit to make the headers in section 1 and section 3 white. I changed the main background to the grey colour. Prior to this, there were white gaps on the footer where it has the rounded corners. I removed the "darkGreyBG" class from the CSS as well as from the col-3 on the left and right sides of the page. I added a section 2 class to the CSS that includes a white background and black text. I also linked up https://digitallysmarter.com.
+I continued on freeCodeCamp a bit more and completed a total of 87 exercises today. I'm on 200 now.
 
 **Thoughts**:
 It was a bit frustrating having left the Portfolio page so close to complete, but I'm glad I left it and came back. It took about an hour to finish off and I was able to correct other small issues that were bugging me. I noticed that when I click on the links, it jumps to the place on the page. I'm not sure if it is supposed to be smoothly scrolling, but I've found documentation on Bootstrap 4 beta to be a bit confusing. Perhaps this is a Bootstrap 4 beta thing?
+freeCodeCamp is getting a bit harder now, with topics I'm less familiar with being introduced. My pace will slow a lot more, but it's good learning new concepts, not just rehashing stuff I already partially knew.
 
 **Link to Work**:
 Portfolio
 ---------
 Link: https://codepen.io/gordonhannan/full/qXQoYZ/
+
+Day 2: August 31, 2017
+
+**Today's Progress**:
+

@@ -37,4 +37,10 @@ Link: https://codepen.io/gordonhannan/full/qXQoYZ/
 Day 2: August 31, 2017
 
 **Today's Progress**:
+I have completed an additional 32 exercises and I am now on exercise 233 on freeCodeCamp. I haven't done any coding apart from the tutorials.
 
+**Thoughts**:
+The tutorials/challenges are getting a bit more complex. I am finished "Basic JavaScript" and "Object Oriented and Functional Programming" portions. I have to say I am still a bit unsure how I'd describe constructors and what not, but I feel like as I continue working at this, it'll become more clear. The "Basic Algorithm Scripting" section that I am on now is designed to help you think like a programmer. The first one was writing a fuction to reverse a string. I enjoyed and I thinkg that this section will be the most interesting so far.
+
+**Link to Work**:
+None for today.

@@ -44,3 +44,17 @@ The tutorials/challenges are getting a bit more complex. I am finished "Basic Ja
 
 **Link to Work**:
 None for today.
+
+Day 3: September 5th, 2017
+
+**Notes**:
+I went to the cottage over the weekend and took a break from my 100 days
+
+**Today's Progress:
+It was a bit rough getting back into JS with the weekend off but I managed to complete a few fCC exercises. I bought the "Pay What You Want: 2017 Learn To Code" bundle from GDGT (https://deals.gdgt.com/sales/pwyw-learn-to-code-2017-google-go?rid=4449223) so that I could learn from a different source. There are courses in JS as well as other languages. I finished the Truncate a String challlenge and the one before that.
+
+**Thoughts**:
+While it was nice to take the weekend off, it was much harder to get back into this. I will have to make sure that I don't take as long off next time. 
+
+**Links to Work**:
+None
